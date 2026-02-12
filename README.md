@@ -1,6 +1,6 @@
 # Data Warehouse and Analytics Project
 
-Welcome to the ** Data Warehouse and Analytics Project ** repository! 🚀
+Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it
 highlights industry best practices in data engineering and analytics.
 
@@ -43,4 +43,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 I am a BCA student learning Data Science. This project is part of my hands-on practice to strengthen my understanding of ETL processes, data modeling, and analytical querying using MySQL.
 
 Let's stay in touch! Feel free to connect with me on the Linkedin platforms: 
+
 🔗Linkedin : https://www.linkedin.com/in/nandini-umarvaish-192047320/
