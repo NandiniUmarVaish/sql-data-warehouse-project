@@ -168,7 +168,7 @@ CREATE PROCEDURE db_silver.load_silver()
 				sls_prd_key,
 				sls_cust_id,
 				CASE 
-					WHEN LENGTH(sls_order_dt) <> 8 OR sls_order_dt <= 0
+					WHEN sls_order_dt = 0
 						THEN NULL
 					ELSE CAST(sls_order_dt AS DATE)
 				END AS sls_order_dt,
