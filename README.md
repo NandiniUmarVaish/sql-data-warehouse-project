@@ -117,5 +117,5 @@ ETL processes, data modeling, and analytical querying using MySQL.
 
 Let's stay in touch! Feel free to connect with me on the Linkedin platforms:
 
-🔗 LinkedIn: https://www.linkedin.com/in/nitin-sharma-999651295
+🔗 LinkedIn: (https://www.linkedin.com/in/nandini-umarvaish-192047320/)
 
