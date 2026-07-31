@@ -62,8 +62,7 @@ The Gold Layer was connected to **Power BI** to build an interactive Sales Dashb
 
 
 ## Dashboard Preview
-
-<img width="773" height="452" alt="image" src="https://github.com/user-attachments/assets/594c2cf4-af0b-429b-8dbc-974e38de5c03" />
+<img width="1316" height="824" alt="Dashboard" src="https://github.com/user-attachments/assets/e7d09fa2-0b71-4408-9050-10a6b8321ade" />
 
 ---
 ## 📖 Project Overview
