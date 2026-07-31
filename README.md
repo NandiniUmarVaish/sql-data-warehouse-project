@@ -16,6 +16,56 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
+
+# ⚙️ ETL Workflow
+
+```
+CSV Files
+        │
+        ▼
+ Bronze Layer
+        │
+        ▼
+ Silver Layer
+(Data Cleaning & Transformation)
+        │
+        ▼
+ Gold Layer
+(Star Schema)
+        │
+        ▼
+ SQL Analytics
+        │
+        ▼
+ Power BI Dashboard
+```
+
+---
+
+# 📊 Sales Performance Dashboard
+
+The Gold Layer was connected to **Power BI** to build an interactive Sales Dashboard for business reporting.
+
+### Dashboard Features
+
+- Revenue KPI
+- Orders KPI
+- Customers KPI
+- Profit Margin
+- Year-over-Year Growth
+- Monthly Sales Trend
+- Top Products by Revenue
+- Sales Distribution by Category
+- Profit Margin by Category
+- Country-wise Sales Analysis
+- Dynamic Slicers for Category, Country and Year
+
+
+## Dashboard Preview
+
+<img width="773" height="452" alt="image" src="https://github.com/user-attachments/assets/594c2cf4-af0b-429b-8dbc-974e38de5c03" />
+
+---
 ## 📖 Project Overview
 
 This project involves:
@@ -78,6 +128,10 @@ For more details, refer to [docs/requirements.md](docs/requirements.md).
 ## 📂 Repository Structure
 ```
 data-warehouse-project/
+│
+├── Dashboard/
+│   ├── Sales_Performance_Dashboard.pbix
+│   ├── dashboard.png
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
